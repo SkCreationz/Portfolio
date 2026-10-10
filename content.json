@@ -3,7 +3,7 @@
   "site": {
     "title": "Sreekanth — Graphic Designer & Video Editor",
     "description": "Graphic Designer, Video Editor & IT Admin based in Palakkad, Kerala.",
-    "logoMark": "S.",
+    "logoMark": "SK.",
     "favicon": "🎨",
     "faviconImage": "",
     "navPhone": "7510881175",
@@ -13,16 +13,16 @@
     "currentCompany": "Rithvik Pipe Company"
   },
   "theme": {
-    "ink": "#060C14",
-    "paper": "#EEF4FF",
-    "accent": "#00C8E0",
-    "fire": "#2979FF",
+    "ink": "#050A1F",
+    "paper": "#E8EEFF",
+    "accent": "#5B8CFF",
+    "fire": "#00D1FF",
     "fontDisplay": "Bricolage Grotesque",
     "fontBody": "Inter",
     "fontMono": "Space Mono",
     "grain": true,
     "radius": 2,
-    "heroBrightness": 20
+    "heroBrightness": 5
   },
   "sections": [
     {
