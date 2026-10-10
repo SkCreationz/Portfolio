@@ -71,12 +71,12 @@
     "name": "SREEKANTH",
     "role": "Graphic Designer · Video Editor · IT Administrator",
     "sub": "Two years building the visual identity for an industrial pipe manufacturer and a fast-food brand simultaneously — different worlds, same standard for the work.",
-    "image": "images/uploads/20261010-8xos-dsc-0352.jpg",
+    "image": "images/uploads/20261010-xbie-dsc-0352.jpg",
     "buttons": [
       {
-        "label": "Call now",
-        "type": "phone",
-        "value": "7510881175",
+        "label": "DM Now",
+        "type": "link",
+        "value": "",
         "style": "solid"
       },
       {
