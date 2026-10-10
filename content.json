@@ -22,7 +22,7 @@
     "fontMono": "Space Mono",
     "grain": true,
     "radius": 2,
-    "heroBrightness": 80
+    "heroBrightness": 7
   },
   "sections": [
     {
@@ -71,7 +71,7 @@
     "name": "SREEKANTH",
     "role": "Graphic Designer · Video Editor · IT Administrator",
     "sub": "Two years building the visual identity for an industrial pipe manufacturer and a fast-food brand simultaneously — different worlds, same standard for the work.",
-    "image": "images/uploads/20261010-l7cd-web-banner.jpg",
+    "image": "images/uploads/20261010-8xos-dsc-0352.jpg",
     "buttons": [
       {
         "label": "Call now",
